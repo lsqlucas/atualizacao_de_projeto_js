@@ -1,7 +1,6 @@
 #!/bin/bash
 #
 #Autor: Lucas Queiroz
-#Data: 19/05/2023
 #Descrição: Script verifica se o projeto existe localmente, se não existir clona, se existir lista as opções do projeto
 #			Primordialmente o script foi criado para automatizar a rotina de atualização dos projetos criados pela equipe de desenvolvimento web,
 #			no entanto, se fez necessario incrementar funções adicionais. 
@@ -19,13 +18,13 @@
 #			Rollback de versão no servidor web
 #
 #
-#Preparação:1 - Inclua seu usuario ao grupo de sudo
+#Preparação:	1 - Inclua seu usuario ao grupo de sudo
 #				adduser usuario sudo 
-#			2 - Crie um diretorio para armazenamento dos Projetos e cole o script dentro dessa pasta
+#		2 - Crie um diretorio para armazenamento dos Projetos e cole o script dentro dessa pasta
 #				mkdir Projetos 
-#			3 - Conceda permissão de execução ao script na primeira vez que for executa-lo
+#		3 - Conceda permissão de execução ao script na primeira vez que for executa-lo
 #				sudo chmod +x atualizacao.sh
-#			2 -	Execute o script
+#		2 -  Execute o script
 #				./atualizacao.sh
 #
 #
