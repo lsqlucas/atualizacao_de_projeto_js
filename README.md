@@ -7,6 +7,8 @@ O problema é que, para cada arquivo/repositorio é necessario o preenchimento d
 
 Esse roteiro foi feito para automatizar essa rotina, pois os arquivos copiados no repositorio remoto são sempre os mesmos. Sendo assim só é necessario informar uma unica vez no inicio do script.
 
+Outro ponto é que, devido a complexidade do ambiente com mais de um servidor de Testes e Produção, fez-se necessario adaptar a atualização em mais servidores para validação do resultado antes e no moemnto da implantação.
+
 Como esse script atualiza um repositorio no servidor web do projeto node, na sequencia o script atualiza as dependencias do projeto para execução em produção e inicia o server js
 
 # REQUISITOS
@@ -31,3 +33,8 @@ Como esse script atualiza um repositorio no servidor web do projeto node, na seq
 
 ### NODE
 `pnpm env use --global lts`
+
+# IMAGENS
+
+
+
