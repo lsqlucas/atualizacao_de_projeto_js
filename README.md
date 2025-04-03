@@ -36,5 +36,15 @@ Como esse script atualiza um repositorio no servidor web do projeto node, na seq
 
 # IMAGENS
 
+![ec991931-fdc4-41b0-bdab-c605a5eb3ca7](https://github.com/user-attachments/assets/1fed7206-10ce-4feb-be04-a003e644d386)
+_Inicio do Processo de atualização_
+
+
+![4ecf4c99-93e2-4bef-8f45-fa2f6268d74e](https://github.com/user-attachments/assets/99c7c331-1554-47d0-aff0-b0fca224dff2)
+_Atualização de pacotes necessarios para a execução do stript_
+
+
+![91c92e0c-167d-4e71-a9a9-9440e87d0ed6](https://github.com/user-attachments/assets/6fd32348-8f67-42dc-8508-75849c308dbb)
+_Tela de seleção de Projeto a atualizar_
 
 
